@@ -1,0 +1,122 @@
+{
+  "queue_url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/index.html",
+  "updated": "2026-10-30T11:18:42-05:00",
+  "count": 9,
+  "requests": [
+    {
+      "id": "REQ-48252",
+      "title": "Congress landing page: Minimally Invasive Gynecology Summit 2027",
+      "division": "GYN Surgical GBU",
+      "type": "Event landing page",
+      "priority": "High",
+      "status": "New",
+      "submitted": "2026-10-29",
+      "target_go_live": "2027-01-11",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48252.html",
+      "tracker_status": "Not triaged",
+      "stage": "Intake"
+    },
+    {
+      "id": "REQ-48244",
+      "title": "EU localization (IT/ES/NL): Cervana HPV Screening Test page",
+      "division": "Diagnostics GBU",
+      "type": "Localization",
+      "priority": "Medium",
+      "status": "New",
+      "submitted": "2026-10-28",
+      "target_go_live": "2027-01-15",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48244.html",
+      "tracker_status": "Not triaged",
+      "stage": "Intake"
+    },
+    {
+      "id": "REQ-48240",
+      "title": "New procedure-education page: Lumera Endometrial Ablation System",
+      "division": "GYN Surgical GBU",
+      "type": "New page",
+      "priority": "Medium",
+      "status": "Triage",
+      "submitted": "2026-10-27",
+      "target_go_live": "2026-12-18",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48240.html",
+      "tracker_status": "Watch",
+      "stage": "Intake"
+    },
+    {
+      "id": "REQ-48231",
+      "title": "Product page update: Corvia Bone Density Analyzer v4.2",
+      "division": "Breast & Skeletal GBU",
+      "type": "Page update",
+      "priority": "Medium",
+      "status": "Ready for build",
+      "submitted": "2026-10-26",
+      "target_go_live": "2026-12-04",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48231.html",
+      "tracker_status": "On track",
+      "stage": "Brief"
+    },
+    {
+      "id": "REQ-48213",
+      "title": "New product page: Veltra Self-Collect Specimen Kit",
+      "division": "Diagnostics GBU",
+      "type": "New product page",
+      "priority": "High",
+      "status": "New",
+      "submitted": "2026-10-19",
+      "target_go_live": "2026-12-11",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48213.html",
+      "tracker_status": "At risk",
+      "stage": "Intake → Brief"
+    },
+    {
+      "id": "REQ-48177",
+      "title": "Lab-partner FAQ refresh",
+      "division": "Diagnostics GBU",
+      "type": "Content update",
+      "priority": "Medium",
+      "status": "In progress",
+      "submitted": "2026-10-12",
+      "target_go_live": "2026-11-06",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48177.html",
+      "tracker_status": "On track",
+      "stage": "Build"
+    },
+    {
+      "id": "REQ-48102",
+      "title": "EU product page translation (DE/FR): Ostrel Hysteroscopy System",
+      "division": "GYN Surgical GBU",
+      "type": "Localization",
+      "priority": "Medium",
+      "status": "Waiting on agency",
+      "submitted": "2026-10-05",
+      "target_go_live": "2026-11-13",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48102.html",
+      "tracker_status": "Watch",
+      "stage": "Build"
+    },
+    {
+      "id": "REQ-48060",
+      "title": "Conference landing page: North American Breast Imaging Forum 2026",
+      "division": "Breast & Skeletal GBU",
+      "type": "Event landing page",
+      "priority": "High",
+      "status": "In MLR review",
+      "submitted": "2026-09-28",
+      "target_go_live": "2026-11-02",
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-48060.html",
+      "tracker_status": "Watch",
+      "stage": "Handed back to product → MLR"
+    },
+    {
+      "id": "REQ-47991",
+      "title": "Photo request: kit lifestyle shots",
+      "division": "Diagnostics GBU",
+      "type": "Asset request",
+      "priority": "Low",
+      "status": "Closed",
+      "submitted": "2026-09-21",
+      "target_go_live": null,
+      "url": "https://sarahrodonnell3-oss.github.io/web-request-desk-demo/requests/REQ-47991.html"
+    }
+  ]
+}
